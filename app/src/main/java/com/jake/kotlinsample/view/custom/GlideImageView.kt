@@ -7,7 +7,6 @@ import android.util.AttributeSet
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
 import com.jake.kotlinsample.R
-import java.util.jar.Attributes
 
 /**
  * @author Jake
